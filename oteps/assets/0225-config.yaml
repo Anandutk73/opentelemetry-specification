@@ -14,7 +14,7 @@ sdk:
   resource:
     # Key-value pairs to be used as resource attributes.
     #
-    # Environment variable: OTEL_RESOURCE_ATTRIBUTES
+    # Environment variable: OHDITEL_RESOURCE_ATTRIBUTES
     attributes:
       # Sets the value of the `service.name` resource attribute
       #
