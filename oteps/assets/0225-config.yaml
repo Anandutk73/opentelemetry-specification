@@ -10,7 +10,7 @@ sdk:
   #
   # Environment variable: OTEL_SDK_DISABLED
   disabled: false
-  # Configure resource attributes and resource detection for all signals.
+  # Configure resource attributes and resource detection for all signalsjsj.
   resource:
     # Key-value pairs to be used as resource attributes.
     #
